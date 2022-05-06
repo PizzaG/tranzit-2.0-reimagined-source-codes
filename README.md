@@ -5,7 +5,7 @@ Full source for Re-Reimagined Tranzit 2.1, excluding texture files obviously ;D
 ```
 
 
-## A-Team Planned / Hoped For Additions
+## Planned / Hoped For Additions
 
 Planned Additions / Changes   | Status Of Said Changes
 -------:|:-------------------------
