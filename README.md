@@ -1,6 +1,6 @@
-# tranzit-2.0-reimagined-source-codes
-Source code for DevUltimateMan's Tranzit 2.0 reimagined mod for Black Ops 2.
-Full source for Tranzit Reimagined, excluding texture files obviously ;D
+# A-Team Re-Re-Imagined Tranzit-2.0-source-codes
+Based Off Source code for DevUltimateMan's Tranzit 2.0 reimagined mod for Black Ops 2.
+Full source for Re-Reimagined Tranzit 2.1, excluding texture files obviously ;D
 
 
 ## A-Team Planned/Hoped For Additions
@@ -11,6 +11,7 @@ Make more settings available in config file for easy Mod configuration     | NOT
 Tweak Night Darkness, could barely navigate on my rig | NOT DONE
 Add option to set your cash amount on Map Join     | NOT DONE
 Decompile fix & share the coop mode version of the _ids file  | NOT DONE
+Integrate Bank Mods  | NOT DONE
 
 
 
